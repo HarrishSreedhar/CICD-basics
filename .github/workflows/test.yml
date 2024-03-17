@@ -1,0 +1,10 @@
+# First Test
+
+name: Fist
+on: workflow_dispatch
+jobs:
+  test-first:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello
+      - run: echo "Hola"
