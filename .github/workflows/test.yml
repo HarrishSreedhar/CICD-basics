@@ -1,6 +1,6 @@
 # First Test
 
-name: Fist
+name: First test wf
 on: workflow_dispatch
 jobs:
   test-first:
